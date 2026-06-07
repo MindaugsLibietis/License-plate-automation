@@ -1,0 +1,16 @@
+{
+  "name": "cypress-reservation-portfolio",
+  "version": "1.0.0",
+  "description": "Component-Driven Polling and Reservation Architecture",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

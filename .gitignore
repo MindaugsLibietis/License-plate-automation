@@ -1,0 +1,13 @@
+# Dependency directories
+node_modules/
+
+# Cypress test artifacts (videos and screenshots taken on failure)
+cypress/screens/
+cypress/videos/
+
+# Secrets and local configuration files 
+cypress.env.json
+
+# IDE local files
+.idea/
+.vscode/
